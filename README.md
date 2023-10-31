@@ -13,4 +13,4 @@ I'm a student from Universitas Bandar Lampung majoring Informatics.
 </p>
 
 ### Reach me on
-![LinkedIn]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})(www.linkedin.com/in/andrico-halim)
+<a href="https://www.linkedin.com/in/andrico-halim/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
