@@ -1,5 +1,7 @@
 ### Hi! 👋 
 
+![GIF](https://media.tenor.com/d3RutodE0Q4AAAAC/killjoy-and-jett-valorant.gif)
+
 My Name is Andrico Halim.
 
 I'm a student from Universitas Bandar Lampung majoring Informatics.
