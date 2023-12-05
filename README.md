@@ -4,7 +4,6 @@
 
 My Name is Andrico Halim.
 
-I'm a student from Universitas Bandar Lampung majoring Informatics.
   
 ### Github Statistic
 <p align="left">
